@@ -1,1 +1,1 @@
-web: gunicorn axion-ai:app
+web: gunicorn beyond-leafs:app
